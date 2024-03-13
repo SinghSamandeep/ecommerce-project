@@ -1,3 +1,5 @@
+markdown
+
 # E-commerce Watch Store
 
 Welcome to the E-commerce Watch Store project, an innovative platform built using Vue 3, Node.js, and Spring Boot, designed to offer a comprehensive shopping experience for watch enthusiasts. The application architecture is segmented into four core components: client frontend, client backend, admin frontend, and admin backend, utilizing MySQL and MongoDB for robust data management.
@@ -14,26 +16,31 @@ To set up this project locally, follow these steps:
    git clone https://github.com/SinghSamandeep/ecommerce-project.git
    cd ecommerce-project
 
-Client Frontend Setup:
+    Client Frontend Setup:
 
-Navigate to the client frontend directory, install the necessary dependencies, and launch the Vue server.
+    Navigate to the client frontend directory, install the necessary dependencies, and launch the Vue server.
+
+    bash
 
 cd client-frontend
-npm install
-npm run serve
+bash
+
+    npm install
+    npm run serve
 
 Admin Frontend Setup:
 
 Similarly, set up the admin frontend to start managing the e-commerce platform.
 
-cd admin-frontend
-npm install
-npm run serve
+bash
+
+    cd admin-frontend
+    npm install
+    npm run serve
 
 Client Backend Setup (Spring Boot & MySQL):
 
 Ensure MySQL is up and running, then start the Spring Boot application from the client backend directory.
-
 
 Admin Backend Setup (Node.js & MongoDB):
 
