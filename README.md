@@ -1,5 +1,4 @@
-markdown
-
+https://youtu.be/aGaJ9UuHG38
 # E-commerce Watch Store
 
 Welcome to the E-commerce Watch Store project, an innovative platform built using Vue 3, Node.js, and Spring Boot, designed to offer a comprehensive shopping experience for watch enthusiasts. The application architecture is segmented into four core components: client frontend, client backend, admin frontend, and admin backend, utilizing MySQL and MongoDB for robust data management.
